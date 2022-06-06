@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#First {
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 13rem 0 5rem 0;
+}
+
+#First h1{
+    font-size: 64px;
+    color: #212529;
+}
+
+#First h3{
+    font-size: font-size: 24.286px ;
+    color: #212529;
+    margin-bottom:  65px;
+}
+
+#First a{
+    background-color: #1D809F;
+    padding:20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: .5s;
+}
+
+#First a:hover{
+    background-color: #063d4e;
+}
+
+#second{
+    text-align: center;
+    padding: 130px 0;
+    background-color: #f8f9fa;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#second h2{
+    color: #212529;
+    margin-bottom: 0.8rem;
+    font-weight: bold;
+}
+
+#second p{
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 4rem;
+}
+
+#second-body {
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+    padding: 20px 40px;
+    font-weight: 400;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#thirty{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    padding: 240px 0;
+}
+
+#thirty h4{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 3rem;
+}
+
+#thirty-body{
+    color: #fff;
+    background-color: #1D809F;
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+#thirty-body:hover{
+    background-color: #0a607a;
+}
+
+#fourthty{
+    background-color: rgb(29, 128, 159);
+    text-align: center;
+    padding: 7.5rem 0;
+}
+
+#fourthty h5{
+    color: #fff;
+    font-size: 26.429px;
+    margin-bottom: 3rem;
+}
+
+#firstlink{
+    color: #000 ;
+    background-color: #fff;
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 4px;
+    font-weight: 400;
+    margin: 0 24px;
+}
+
+#secondlink{
+    color: #fff ;
+    background-color: #000;
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 4px;
+    font-weight: 400;
+}
+
+.map{
+    font-size: 16px;
+    height: 75%;
+}
+
+.map iframe{
+    height: 24rem;
+    width: 100%;
+}
